@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**anistark/anistark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building products, and currently building blockchain based products for fintech, supply chain, edtech domains at [Acyclic](https://acycliclabs.com). Also, been running multiple communities like [Blockchained India](/blockchainedindia), [BangPypers](http://bangalore.python.org.in/) and [IEN](https://ien.io/).
+More about me on [my website](https://anirudha.dev).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on products at [Acyclic Labs](/acycliclabs).
+- 🌱 I’m currently learning maintaining a schedule.
+- 🖊 Find out my latest scribbles on my tech blog, [Ani Writes](https://blog.anirudha.dev).
+- 👯 I’m looking to collaborate on product, architecture and validating ideas.
+- 🤔 I’m looking for help with mobile app development.
+- 💬 Ask me about products, platform architecture, python, nodejs, community, blockchain, tangle.
+- 📫 How to reach me: anirudha.dev
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm kinda enjoying this lockdown phase.
