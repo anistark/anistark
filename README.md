@@ -10,7 +10,3 @@ More about me on [my website](https://anirudha.dev).
 - 🤔 I’m looking for help with mobile app development.
 - 💬 Ask me about products, platform architecture, python, nodejs, community, blockchain, tangle.
 - 😄 Pronouns: he/him
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anistark&label=Visits" alt="anistark" />
-</p>
