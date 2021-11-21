@@ -11,5 +11,3 @@ More about me on [my website](https://anirudha.dev).
 - 🤔  Looking for help with mobile app development.
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
 - 😄  Pronouns: he/him
-
-<a href="https://app.daily.dev/ani"><img src="https://api.daily.dev/devcards/8088fe72d8434a5a9b1fa204a7aac16e.png?r=pwg" width="400" alt="Kumar Anirudha's Dev Card"/></a>
