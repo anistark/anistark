@@ -11,3 +11,6 @@ More about me on [my website](https://anirudha.dev).
 - 🤔  Looking for help with mobile app development.
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
 - 😄  Pronouns: he/him
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anistark&theme=gotham&hide_border=true)](https://git.io/streak-stats)
