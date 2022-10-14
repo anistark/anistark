@@ -12,11 +12,6 @@ More about me on [my website](https://anirudha.dev).
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
 - 😄  Pronouns: he/him
 
-[![Ani StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1949551)](https://stackoverflow.com/users/1949551/ani) [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kranirudha)](https://twitter.com/kranirudha)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anistark&theme=gotham&hide_border=true)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anistark&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anistark&theme=github_dark)
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kranirudha)](https://twitter.com/kranirudha)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=grow_out_in&layout=default&font=default) ![Jokes Card](https://readme-jokes.vercel.app/api)
