@@ -12,6 +12,6 @@ More about me on [my website](https://anirudha.dev).
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
 - 😄  Pronouns: he/him
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kranirudha)](https://twitter.com/kranirudha)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kranirudha)](https://twitter.com/kranirudha) ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=grow_out_in&layout=default&font=default) ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=grow_out_in&layout=default&font=default)
