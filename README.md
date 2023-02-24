@@ -3,6 +3,7 @@
 I talk on products, startups, programming, design patterns, blockchain and IOTA.
 More about me on [my website](https://anirudha.dev).
 
+- 🚀  Building products, protocol and infra in web3.
 - 🔭  Developer Advocate at [IOTA Foundation](https://github.com/iotaledger).
 - 🌱  Build blockchain based products in fintech, edtech and supply chain at [Acyclic Labs](https://github.com/acycliclabs).
 - 🖊  Find out my latest scribbles on my tech blog, [Ani Writes](https://blog.anirudha.dev).
