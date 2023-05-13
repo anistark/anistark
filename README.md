@@ -7,7 +7,7 @@ More about me on [my website](https://anirudha.dev).
 - 🔭  Developer Advocate at [IOTA Foundation](https://github.com/iotaledger).
 - 🌱  Build blockchain based products in fintech, edtech and supply chain at [Acyclic Labs](https://github.com/acycliclabs).
 - 🖊  Find out my latest scribbles on my tech blog, [Ani Writes](https://blog.anirudha.dev).
-- 👓  Learning Rust 📚
+- 👓  Learning Rust and React Native 📚
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
 - 😄  Pronouns: he/him
 
