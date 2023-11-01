@@ -8,7 +8,7 @@ More about me on [my website](https://anirudha.dev).
 - 🖊  Find out my latest scribbles on my tech blog, [Ani Writes](https://blog.anirudha.dev).
 - 💻  Learning Rust and React Native.
 - 📚  Love thrillers and adventure stories.
-- 💼  Ex
+- 💼  Previously
   - Tech and Ecosystem at [IOTA Foundation](https://github.com/iotaledger), worked with Shimmer, ShimmerEVM and IOTA Tangle.
   - Built blockchain based products in fintech, edtech and supply chain at [Acyclic Labs](https://github.com/acycliclabs).
   - Built online hackathon and skill development platform at [Skillenza](https://twitter.com/skillenza).
