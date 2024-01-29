@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I talk on products, startups, programming, design patterns, blockchain and IOTA.
+I build on products, startups, programming, design patterns, blockchain and IOTA.
 More about me on [my website](https://anirudha.dev).
 
 - 🚀  Building products, protocol and infra in web3 at [DripVerse Protocol](https://dripverse.org).
