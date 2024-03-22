@@ -4,6 +4,7 @@ I build on products, startups, programming, design patterns, blockchain and IOTA
 More about me on [my website](https://anirudha.dev).
 
 - 🚀  Building products, protocol and infra in web3 at [DripVerse Protocol](https://dripverse.org).
+- 🎙️  Talk CosmWasm with [Abstract SDK](https://abstract.money/).
 - 🔭  Looking for interesting products and collaborations.
 - 🖊  Find out my latest scribbles on my tech blog, [Ani Writes](https://blog.anirudha.dev).
 - 💻  Learning Rust and React Native.
