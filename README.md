@@ -4,13 +4,15 @@ I build on products, startups, programming, design patterns, blockchain and IOTA
 More about me on [my website](https://anirudha.dev).
 
 - 🚀  Building products, protocol and infra in web3 at [DripVerse Protocol](https://dripverse.org).
-- 🔭  Looking for interesting products and collaborations.
-- 🖊  Find out my latest scribbles on my tech blog, [Ani Writes](https://blog.anirudha.dev).
-- 💻  Learning Rust and React Native.
-- 📚  Love thrillers and adventure stories.
-- 💼  Previously
+- 🖊  Read out my latest obsessions on [Ani Log](https://blog.anirudha.dev).
+- 📰  Subscribe to my [newsletter](https://paragraph.xyz/@anirudha).
+- 📚  Recommend me your favourite thrillers and adventure stories/movies/manga/anime.
+- 🎸  Listen to some of [my music](https://www.youtube.com/@_anirudha). (Mostly covers of my fav beats.)
+- 💼  Previously:
   - Tech and Ecosystem at [IOTA Foundation](https://github.com/iotaledger), worked with Shimmer, ShimmerEVM and IOTA Tangle.
+  - Senior Engineer at hiring platform, [Apna](https://apna.co/).
   - Built blockchain based products in fintech, edtech and supply chain at [Acyclic Labs](https://github.com/acycliclabs).
+  - Cofounded India's largest blockchain community, [Blockchained India](https://blockchainedindia.com/).
   - Built online hackathon and skill development platform at [Skillenza](https://twitter.com/skillenza).
   - Built Hyperlocal Delivery System at Opinio.
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
