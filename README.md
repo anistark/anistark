@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif)
+![](./mood.gif)
 
 [![Website anirudha.dev](https://img.shields.io/website-up-down-green-red/https/anirudha.dev.svg)](https://anirudha.dev/)
 
