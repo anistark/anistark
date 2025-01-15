@@ -1,3 +1,5 @@
+![](https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif)
+
 ### Hi there 👋
 
 I build on products, startups, programming, design patterns, blockchain and IOTA.
@@ -17,10 +19,6 @@ More about me on [my website](https://anirudha.dev).
 - 💬  Ask me about products, platform architecture, python, nodejs, community, blockchain, iota, tangle.
 - 😄  Pronouns: he/him
 - 🗣️  Languages: English, Bengali, Hindi
-
-### Tech Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 
 ---
 
