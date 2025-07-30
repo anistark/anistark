@@ -2,7 +2,7 @@
 
 ![](./mood.gif)
 
-[![Website anirudha.dev](https://img.shields.io/website-up-down-green-red/https/anirudha.dev.svg)](https://anirudha.dev/)
+[![Website anirudha.dev](https://img.shields.io/website?url=https%3A%2F%2Fanirudha.dev&style=for-the-badge&label=anirudha.dev&labelColor=black)](https://anirudha.dev/)
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kranirudha) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kranirudha/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@ani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anistark) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/anistark/) [![Bluesky](https://img.shields.io/badge/bluesky-black?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/anirudha.dev) 
 
