@@ -12,10 +12,4 @@
 
 [![Contribution skyline for @anistark](https://anistark.github.io/git-card/cards/anistark/skyline.svg)](https://anistark.github.io/git-card/u/anistark?utm_source=readme&utm_medium=card&utm_campaign=skyline)
 
-
-
----
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 </div>
