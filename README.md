@@ -8,8 +8,4 @@
 
 [![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logoColor=white)](https://blog.anirudha.dev/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anistark) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anistark) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@_anirudha) [![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/anistark) 
 
----
-
-[![Contribution skyline for @anistark](https://anistark.github.io/git-card/cards/anistark/skyline.svg)](https://anistark.github.io/git-card/u/anistark?utm_source=readme&utm_medium=card&utm_campaign=skyline)
-
 </div>
